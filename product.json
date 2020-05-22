@@ -1,0 +1,32 @@
+[
+  {
+    "id":0,
+    "name": "Wind Breaker Men Both Side Wear Bomber",
+    "price": 622,
+    "old_price": 942,
+    "desc": "It is made from top quality material, durable for daily wear.",
+    "rate": 4.8,
+    "sku":21457832,
+    "img": "1.jpg"
+  },
+  {
+    "id":1,
+    "name": "2020 new mens classic korean jacket",
+    "price": 499,
+    "old_price": 611,
+    "desc": "Shoulder: Medium 16inches / Large 17inches / XL 18inches / 2XL 19inches / 3XL 20inches",
+    "rate": 4.4,
+    "sku":21457833,
+    "img": "2.jpg"
+  },
+  {
+    "id":2,
+    "name": "Korean Jacket Waterproof Jacket Uniform Jaket Casual",
+    "price": 380,
+    "old_price": 423,
+    "desc": "Welcome to AUMOO where we strive to provide our customers an array of products that satisfy demand for quality and efficiency. ",
+    "rate": 3.3,
+    "sku":21457834,
+    "img": "3.jpg"
+  }
+]
